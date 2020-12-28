@@ -1,0 +1,58 @@
+[
+   {
+      "objectGuid": "6P3Z78XkpWGc2usygAvRmm",
+      "objectName": "EDX_ORA_INFADEMO_DATA_2",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "EDX_ORA_INFADEMO_DATA_2",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "5R3PlrQWdSChpe9JMAX4SK"
+         ],
+         "repoInfo": {
+            "repoHandle": "01002J0B00000000000W"
+         }
+      }
+   },
+   {
+      "objectGuid": "5R3PlrQWdSChpe9JMAX4SK",
+      "objectName": "edx",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "01002J2500000000000E"
+         }
+      }
+   }
+]
